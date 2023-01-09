@@ -4,17 +4,23 @@
 
 
 <h2>Demonstration Summary</h2>
-<p> In this demo, we will be executing the following with AWS S3:</p>
+<p> In this demo, we will be executing the following with Azure:</p>
+- Creating a new resourse group (RG)
+- Building a Virtual Machine
+- Remoting into VMs
+- Deleting RG and VMs (Clean up)
 
-- Creating buckets
-- Uploading and grouping files
-- Deleting files and buckets
+<h2>Environments and Technologies Used</h2>
 
+- Microsoft Azure VMs (Virtual Machines/Computer)
+- Remote Desktop
+- Resource Groups
+- Virtual Networks (V-nets)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (21H2)
-
+- Windows 11
+- Windows 10 (21H2)
 
 <h2>Video Demonstration</h2>
 
