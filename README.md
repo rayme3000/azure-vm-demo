@@ -3,19 +3,12 @@
 
 
 <h2>Demonstration Summary</h2>
-<p> In this demo, we will be executing the following:</p>
+<p> In this demo, we will be executing the following with AWS S3:</p>
 
-- Building a Virtual Machine (VM) in Azure
-- Remoting into our VM with RDP and browsing the internet
-- Logging out and deleting our VM from our Azure Subscription
+- Creating buckets
+- Uploading and grouping files
+- Deleting files and buckets
 
-
-<h2>Environments and Technologies Used</h2>
-
-- Windows 10
-- Resource Groups (Azure)
-- VMs (Azure)
-- Microsoft Remote Desktop
 
 <h2>Operating Systems Used </h2>
 
